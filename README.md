@@ -1,4 +1,4 @@
-# GitHub-Markdown-Práctica
+# Práctica GitHub+Markdown
 **Autor:** Marc Soler Fábrega
 
 GitHub es una plataforma que permite **alojar proyectos utilizando GIT**, un sistema de control de versiones. Aunque su uso principal es para la **creación y colaboración en código fuente de software**, también se utiliza para **gestionar documentación, proyectos colaborativos, entre otros**.
